@@ -1,0 +1,58 @@
+{
+    "id": "Makan.in-lite-pwa-1",
+    "start_url": "./index.html",
+    "name" : "Makan.in",
+    "short_name" : "Makan.in",
+    "description": "Makanan terbaik untukmu",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./images/heros/hero-image_4_72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_128x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_152x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./images/heros/hero-image_4_512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+      ]
+}
